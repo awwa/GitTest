@@ -9,5 +9,6 @@ namespace ConsoleApp1
     class Class1
     {
         // mainブランチを変更
+        // mainブランチで変更2
     }
 }
