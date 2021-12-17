@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-        }
+        // mainブランチを変更
+        // mainブランチで変更2
     }
 }
