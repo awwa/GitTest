@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // featureブランチで更新
+            // featureブランチで更新2
         }
     }
 }
